@@ -197,7 +197,7 @@ Niya似乎还没回来。[p][r]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="nowomannocry.m4a"  ]
 [tb_start_text mode=3 ]
 「你觉得，幽灵真的存在吗？」[p][r]
-Kikko突然这样问我。[p][r]
+辉子突然这样问我。[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
