@@ -28,13 +28,12 @@
 
 [cm  ]
 [tb_start_text mode=1 ]
-「为什么　在笑呢」[p]
-「是啊・・・因为能笑着，是很开心的事情哦」[p]
+「为什么，在笑呢」[p]
+「是啊……因为能笑着，是很开心的事情哦」[p]
 「开心……？」[p]
-「嗯　无论发生多么痛苦的事情[l][r]
-开心的事情也不会全部消失啊」[p]
+「嗯。无论发生多么痛苦的事情[l][r]开心的事情也不会全部消失啊」[p]
 「……是吗」[p]
-「而且　我们的胸中有着汪恋呢」[p]
+「而且，我们的心中有着汪恋呢」[p]
 「……汪恋？」[p]
 「汪恋啊」[p]
 [_tb_end_text]
@@ -43,16 +42,18 @@
 ……ONE LOVE？[l][r]
 太蠢了，我放弃追问。[l][r]
 这种东西，能有什么用吗……。[l][r]
-
 [_tb_end_text]
 
 [cm  ]
+[font color="0xaaaaaa"]译注：原文为わんらぶ，わん可以解释为犬吠声，亦可片假名解释为 ONE，数字 1。[p]
+[resetfont]
+
+[cm  ]
 [tb_start_text mode=3 ]
-「呐，Alice　走吧」[p][r]
+「呐，Alice，走吧」[p][r]
 「……去哪里」[p][r]
 「被阳光照射的地方」[p][r]
 辉子说完就突然带我走了出去。[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0xffffff"  ]
@@ -90,7 +91,6 @@
 [tb_start_text mode=2 ]
 在这之后对话自然而然地停了下来。[l][r]
 辉子在沉默中哼歌。[l][r]
-
 [_tb_end_text]
 
 [wait  time="2000"  ]
@@ -99,7 +99,6 @@
 [tb_start_text mode=2 ]
 很明亮，但又有些悲伤……[l][r]
 我一直在唱着，那首歌。[l][r]
-
 [_tb_end_text]
 
 [tb_image_show  time="3000"  storage="default/Titleback.png"  width="1024"  height="576"  x="240"  y="62"  _clickable_img=""  ]
@@ -114,7 +113,6 @@
 [tb_start_text mode=3 ]
 呼唰呼唰呼唰呼唰呼唰。[l][r]
 海边的我破风前行。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -123,7 +121,6 @@
 我来到了未曾见过未曾听过的小镇。[p][r]
 「差不多了……」[p][r]
 独自旅行，独语自然也就会增加。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -132,7 +129,6 @@
 这个我从未见过也从未听说过的小镇，[l][r]
 因缘际会，我要前来一游。[l][r]
 只有风与海的小镇。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -140,35 +136,31 @@
 虽然这是十多年前的记忆了，有些模模糊糊，不过辉子应该是这样对我说的。[p][r]
 高尾辉子。[l][r]
 是我为数不多的朋友。[l][r]
-朋友，我应该是这么想的。[l][r]
-
+朋友，应该吧。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 不如说，辉子是这么称呼的。[l][r]
-我们当了十年邮件笔友。[l][r]
-「邮件笔友」已经是个死语了吗？[l][r]
+我们当了十年笔友。[l][r]
+话说「笔友」这个词已经过时了吗？[l][r]
 我还没听说过有什么人现在还在用邮件和朋友联系。[l][r]
-而且听说最近LINE都已经退场了……[l][r]
-
+而且听说最近 LINE 都要没落了……[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 咻咻咻咻咻。[l][r]
 被割裂的风散向了遥远的后方。[l][r]
-我，向前……[l][r]
-抵达了目的地……[l][r]
+我，向前开着……[l][r]
+直到抵达目的地……[l][r]
 旅行已经到达了折返点。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 从一周前开始，辉子就没有回过我了。[l][r]
-确认这件事，意味着我将失去某种柔软的触感。[l][r]
-我连惋惜那触感的时间都没有，世界开始迅速地染上色彩。[l][r]
-虽然很可怕，虽然很寂寞，但是水槽里的鱼[l][r]
-却跑到了外面，开始拼命地游起来。[l][r]
-
+所谓确认，便是失去某种柔软触感的过程。[l][r]
+连惋惜那触感的余裕都没有，世界便急速染上色彩。[l][r]
+纵使…恐惧，纵使寂寞，水槽中的鱼[l][r]
+仍将游向外界，奋力摆尾前行。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -183,7 +175,6 @@
 [tb_start_text mode=3 ]
 「是这里吗……」[p][r]
 我从县道走进了住宅区的一角。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -192,7 +183,6 @@
 是我每年唯一会寄贺年卡的地方。[l][r]
 那里矗立着一间古老的独栋民宅。[l][r]
 门牌上写着「高尾」。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -201,7 +191,6 @@
 「我什么都没准备啊……」[p][r]
 星期五的下午13点。[l][r]
 我到了这里才意识到，这个时间一般人不在家。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -210,7 +199,6 @@
 但是……[p][r]
 「哎，不管了」[p][r]
 我下定决心按下了门铃。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -219,7 +207,6 @@
 对讲机发出了空荡荡的咔嚓声。[l][r]
 看来是坏掉了啊，这玩意儿……。[l][r]
 我呆呆地站在门口……。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -234,10 +221,9 @@
 [tb_start_text mode=3 ]
 「诶？」[p][r]
 我闭着眼睛时，旁边传来了声音。[p][r]
-「孝太郎，有客人？」[p][r]
+「阿达，有客人？」[p][r]
 是女性的声音……也就是说，是辉子吗？[l][r]
 我猛然睁开眼，转过头去。[l][r]
-
 [_tb_end_text]
 
 [cm  ]
@@ -256,12 +242,12 @@
 「Niya」[p][r]
 「尼？」[p][r]
 「嗯」[p][r]
-「喵？」[p][r]
-「小猫吗？」[p][r]
+「Nya？」[p][r]
+「是小猫吗？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「您才是猫吗？」[p][r]
+「您才是，是猫吗？」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyakannpaiww.png"  ]
@@ -269,7 +255,7 @@
 「嘻嘻」[p][r]
 「诶？」[p][r]
 「写作两个『弥』，读作『Niya』。[l][r]
-你可以叫我尼雅，或者尼雅子」[p][r]
+你可以叫我喵斯，或者喵子」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -282,54 +268,56 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyahuann.png"  ]
 [tb_start_text mode=3 ]
-「贺……啊，贺东是谁？」[p][r]
-「不是贺东是谁。」[p][r]
+「贺……啊，阿里嘎多丝？」[p][r]
+「那是什么啊。」[r]
+[font color="0xaaaaaa"]译注：原文「賀東（がどう）ありす」被误认为是外语名字，作了「アリガトス」。
+而「アリガトス」由于我也不清楚的理由被女主理解为「感謝竜」。日语真奇妙。此处意译。[p]
+[resetfont]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaw.png"  ]
 [tb_start_text mode=3 ]
 「嘻嘻」[p][r]
-自称Niya的女性说完，又喝了一口罐装的烧酒调鸡尾酒。[p][r]
+自称Niya的女性说完，又喝了一口罐装啤酒。[p][r]
 「干杯。」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyakanpai.png"  ]
 [tb_start_text mode=3 ]
-Niya不疾不徐地递出罐子。[l][r]
+Niya不疾不徐地递出易拉罐。[l][r]
 ……[l][r]
 她似乎想干杯。[l][r]
 这个女人，看来是醉了。[l][r]
-我拿出之前放在Cub上的水壶。[p][r]
+我从摩托的挂钩上取下原本挂着的水壶。[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「为、我们的相遇……」[p][r]
 罐子与水壶碰触后发出「叩」的一声。[l][r]
-我在做什么呢……[p][r]
+我在做什么……[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
 [tb_start_text mode=3 ]
-「对了，你找阿高有什么事？」[p][r]
-「阿高？」[p][r]
+「对了，你找阿达有什么事？」[p][r]
+「阿达？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「嗯，高尾达彦。」[p][r]
 Niya嘴里说着玩笑一般的名字。[l][r]
 完全就是个冷笑话啊。[p][r]
-「不……请问这是谁啊……[l][r]
-我家是，辉子……」[p][r]
+「不……那是哪位啦……[l][r]
+我是想找，辉子……」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom2.png"  ]
 [tb_start_text mode=3 ]
-「Key姐，有客人吗？」[p][r]
-「Key姐？」[p][r]
-「啊——是住在我家隔壁的姐姐呢　那个，我……算是青梅竹马吧？」[p][r]
-Niya似乎就住在隔壁。[l][r]
+「是来找辉姐姐的吗？」[p][r]
+「辉姐姐？」[p][r]
+「啊——她是住在我家隔壁的姐姐呢，那个……算是青梅竹马吧？」[p][r]
+Niya似乎是辉子的邻居。[l][r]
 难怪。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -338,7 +326,7 @@ Niya似乎就住在隔壁。[l][r]
 朋友。[l][r]
 这应该没错。[l][r]
 因为，辉子是这么说的。[p][r]
-「Key姐的朋友？」[p][r]
+「辉姐姐的朋友？」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyametoji.png"  ]
@@ -346,7 +334,7 @@ Niya似乎就住在隔壁。[l][r]
 Niya露出惊讶的表情，然后温柔地笑了起来。[l][r]
 大概不会是坏人吧。[l][r]
 我直觉地这么认为。[p][r]
-「……因为，现在没有人在家。」[p][r]
+「……现在的话，那里暂时没人。」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
@@ -366,7 +354,7 @@ Niya指着高尾家这么说道。[p][r]
 [tb_start_text mode=3 ]
 「噗哈～～」[p][r]
 「……酒很好喝吗？」[p][r]
-「没喝啊？」[p][r]
+「报喝啊？」[p][r]
 「……那，为什么要喝？」[p][r]
 [_tb_end_text]
 
@@ -384,7 +372,7 @@ Niya指着高尾家这么说道。[p][r]
 「不是也有甜味的酒吗？」[p][r]
 「我本来就不太喜欢甜的东西。」[p][r]
 「啊——是吗，不过……能不喝是最好了。」[p][r]
-「……你不会寂寞吗？」[p][r]
+「……所以，你不寂寞吗？」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom2.png"  ]
@@ -407,16 +395,16 @@ Niya微笑着，[p][r]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
 [tb_start_text mode=3 ]
-「那家伙，17点以前工作。」[p][r]
-「那家伙是……达，达彦先生　吗？」[p][r]
+「那家伙，要工作到17点。」[p][r]
+「那家伙是……达，达彦先生、吗？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「嗯。」[p][r]
-「那个，话说　辉子她……」[p][r]
-「啊——KEY姐姐她……嗯　她现在不在。」[p][r]
+「那个，话说，辉子她……」[p][r]
+「啊——辉姐姐她……嗯，她现在不在。」[p][r]
 「她什么时候回来？」[p][r]
-「这个也，问问达彦啊。」[p][r]
+「这个，得去问达彦才行。」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -435,13 +423,13 @@ Niya微笑着，[p][r]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyametoji.png"  ]
 [tb_start_text mode=3 ]
-「哈哈哈……你没听KEY老师说吗？」[p][r]
+「哈哈哈……你没听辉姐姐说过吗？」[p][r]
 「她说只有风和海。」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaiyaiya.png"  ]
 [tb_start_text mode=3 ]
-「KEY老师是位诗人呢。」[p][r]
+「辉姐姐是位诗人呢。」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -479,7 +467,7 @@ Niya从包里拿出了旅游手册。[p][r]
 「这里和这里……嗯……还有……」[p][r]
 然后用红笔在手册上画了圈。[p][r]
 「这本旅游手册，不能直接用吗？」[p][r]
-「那个啊……有一半是奇怪的石头和……不奇怪的石头。」[p][r]
+「那个啊……有一半是奇怪的石头……其他是不奇怪的石头。」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -492,10 +480,10 @@ Niya从包里拿出了旅游手册。[p][r]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaw.png"  ]
 [tb_start_text mode=3 ]
-「哎呀，这话不错。」[p][r]
+「哎呀，这话不赖。」[p][r]
 Niya一边说着，又加了一个圈。[p][r]
-「好，我加了好的石头。」[p][r]
-「有好的石头吗？」[p][r]
+「行，我把好的石头加上了。」[p][r]
+「真有好的石头啊？」[p][r]
 Niya吐了吐舌头，做出了滑稽的样子。[l][r]
 
 [_tb_end_text]
