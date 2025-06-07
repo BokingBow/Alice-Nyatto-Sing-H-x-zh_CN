@@ -485,7 +485,6 @@ Niya一边说着，又加了一个圈。[p][r]
 「行，我把好的石头加上了。」[p][r]
 「真有好的石头啊？」[p][r]
 Niya吐了吐舌头，做出了滑稽的样子。[l][r]
-
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]

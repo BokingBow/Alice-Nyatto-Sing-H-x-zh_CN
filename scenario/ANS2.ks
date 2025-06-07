@@ -11,9 +11,8 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="Go_go_9.ogg"  ]
 [tb_start_text mode=3 ]
 我看着从Niya那里得到的传单，决定在街上逛一逛。[l][r]
-即使询问辉子在哪里，她也只会坚持到下午5点为止，高尾家的人都不会回来。[l][r]
-有什么不能让我和她见面的事情吗……[l][r]
-
+即使询问辉子在哪里，她也只会坚称17点前高尾家的人都不会回来。[l][r]
+搞得跟有事瞒着我不让我和她见面一样……[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -21,25 +20,22 @@
 在这个小镇上徘徊的话，说不定会和辉子偶遇。[l][r]
 我确认着Niya画着圈的地方。[l][r]
 商店街。[l][r]
-公众澡堂。[l][r]
-
+洗浴中心。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 神社。[l][r]
-然后，在地图上什么都没有的地方有一个标记。[p][r]
+以及，在地图上空着的地方有一个标记。[p][r]
 「猫，地藏……？」[p][r]
 「好的石头，猫地藏」[l][r]
 上面这么写着。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 是猫，还是地藏？[l][r]
 算了，没差……[l][r]
 总之，我决定从商店街开始逛。[l][r]
-○标记的旁边写着「不要期待哦！」。[l][r]
-
+○标记的旁边写着「别太期待哦！」。[l][r]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -48,11 +44,10 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playse  volume="50"  time="1000"  buf="0"  storage="Littlekav.m4a"  ]
 [tb_start_text mode=3 ]
-啪鲁啪鲁啪鲁啪鲁啪鲁啪鲁啪鲁。[l][r]
+呼唰呼唰呼唰呼唰呼唰呼唰呼唰。[l][r]
 我和摩托车化为一个流线在道路上驰骋。[l][r]
 迎着风。[l][r]
 划破海。[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -62,8 +57,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 只用了大约5分钟就到达了商店街。[l][r]
-商店街……不如说……。[l][r]
-
+与其说是商店街……不如说……。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -72,14 +66,12 @@
 日式点心店，好像哪里都有……[l][r]
 我看见写着「恋猫莎布蕾」的旗子立着。[l][r]
 莎布蕾？[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 不是日式点心店吗？[l][r]
 ……[l][r]
 因为有些在意，就决定去看看。[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -93,23 +85,22 @@
 
 [tb_start_text mode=3 ]
 「你好……」[p][r]
-里面放着普通的日式点心。[l][r]
+里面有普通的日式点心。[l][r]
 感觉和我家附近的店没什么区别。[l][r]
-柜台前面，的确放着写着恋猫莎布蕾的箱子。[p][r]
+柜台前面，的确放着写着恋猫莎布蕾的盒子。[p][r]
 「要买莎布蕾吗？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 「要……那个，为什么只有这个是西点……」[p][r]
-「880日元」[p][r]
+「880円」[p][r]
 「啊……那个……」[p][r]
-「880日元」[p][r]
+「880円」[p][r]
 「好……」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 真没礼貌……[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -129,24 +120,21 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「哎呀呀」[p][r]
+「嘛嘛」[p][r]
 莎布蕾的味道普普通通。[l][r]
 和在镰仓吃过的没什么区别。[l][r]
 也就是说，在莎布蕾之中应该算是好吃的。[l][r]
 我在干什么啊……。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 商店街基本都这样。[l][r]
 因为不抱期待而来的，所以也没什么特别的感觉。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 ……如果没什么特别的感觉的话，还是抱抱期待比较好吧。[l][r]
 总之，去下一个地方吧。[l][r]
-
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -164,26 +152,23 @@ Niya标注记的地方，也有猫地藏。[p][r]
 在一段台阶的顶端，有一个小神社。[l][r]
 ……[l][r]
 机会难得，就去参拜一下吧。[l][r]
-有人说，神社不是许愿，而是立誓的地方。[l][r]
-
+有人说，神社不是许愿的地方，而是立誓的地方。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我看了看钱包，只有5日元硬币。[l][r]
-因为刚刚付了一日元……。[l][r]
-把5日元硬币投进去，感觉像有恋爱脑一样，好讨厌啊……。[l][r]
+我看了看钱包，只有5円硬币。[l][r]
+因为刚刚付过钱……。[l][r]
+把5円硬币投进去，感觉像有恋爱脑一样，好讨厌啊……。[l][r]
 有谁能理解我的心情呢。[l][r]
 不过，没办法啊。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我将5元硬币投进去，摇晃了一下铃铛。[l][r]
-2拜2拍手1拜。[l][r]
+我投入5円硬币，摇响铃绳。[l][r]
+二鞠躬，二拍手，一鞠躬。。[l][r]
 是这样吗？[l][r]
 那个，许愿，不对，是立誓？[l][r]
 不太明白。[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -195,15 +180,15 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [chara_show  name="sabure"  time="1000"  wait="true"  storage="chara/3/Nekomikonom.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
 「你好」[p][r]
-「啊，嗯  你好」[p][r]
+「啊，诶，你好」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 一个穿着巫女服的人向我打了声招呼。[l][r]
 与其说穿着巫女服，不如说她就是个巫女吧。毕竟是在神社里。[l][r]
-有巫女在的神社还真少见啊・・・我还以为只有在游戏中才有[p][r]
+有巫女在的神社还真少见啊……我还以为只有在游戏中才有[p][r]
 「你是来观光的吗？」[p][r]
-「嗯，嗯  就算是这样吧」[p][r]
+「嗯，嘛，就算是这样吧」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikoodo2.png"  ]
@@ -217,17 +202,17 @@ Niya标注记的地方，也有猫地藏。[p][r]
 
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「啊，那个很好吃呢」[p][r]
-「嗯，算是吧……」[p][r]
-「跟爱心莎布蕾很像呢」[p][r]
-「这是共通认识吗？」[p][r]
-「这里的小孩子一般都说是占据了爱心莎布蕾的工厂制造的哦」[p][r]
-「阴谋论……」[p][r]
+「啊，那个很好吃吧」[p][r]
+「哈哈，算是吧……」[p][r]
+「跟鸽子莎布蕾很像呢」[p][r]
+「这，是共识吗？」[p][r]
+「本地小孩间都传说是抢了做鸽子莎布蕾的工厂做的」[p][r]
+「阴谋论吧……」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikokanas.png"  ]
 [tb_start_text mode=3 ]
-「不管什么事都认定是阴谋论可不好哦。」[p][r]
+「不管什么事都认定是阴谋论可不好哦」[p][r]
 「不，再怎么说那也太……」[p][r]
 [_tb_end_text]
 
@@ -235,7 +220,7 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [tb_start_text mode=3 ]
 「啊哈哈，开玩笑的。」[p][r]
 「还好是开玩笑……」[p][r]
-「你在找谁吗？」[p][r]
+「所以，你是在找谁吗？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -244,17 +229,15 @@ Niya标注记的地方，也有猫地藏。[p][r]
 
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikow.png"  ]
 [tb_start_text mode=3 ]
-「一定会遇到的哦。」[p][r]
-「……谢谢。」[p][r]
+「一定，会碰到的哦」[p][r]
+「……谢谢」[p][r]
 巫女笑眯眯地断言道。[l][r]
 ……[l][r]
-
 [_tb_end_text]
 
 [chara_hide  name="sabure"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=3 ]
 ……话说回来，也许是错觉，但她是不是有猫耳？[l][r]
-
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -266,16 +249,14 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [tb_image_show  time="1000"  storage="default/枠.png"  width="1280"  height="720"  ]
 [bg  time="1000"  method="crossfade"  storage="str/Pannhu.png"  ]
 [tb_start_text mode=3 ]
-那么……剩下的是超级澡堂，还有猫地藏……[l][r]
-
+那么……剩下的是洗浴中心，还有猫地藏……[l][r]
 [_tb_end_text]
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-超级澡堂啊……[l][r]
+洗浴中心啊……[l][r]
 由于旅行中只能淋浴，或许也可以把汗水冲掉。[l][r]
-总之先去看看吧……[l][r]
-
+总之，先去看看吧……[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -288,29 +269,26 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [tb_show_message_window  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="Bane.ogg"  ]
 [tb_start_text mode=3 ]
-那是在都内也有的，连锁经营的超级澡堂。[l][r]
-入浴费600圆。[l][r]
+那是在东京也有的，连锁经营的洗浴中心。[l][r]
+入浴费600円。[l][r]
 总觉得好像很便宜。[l][r]
-因为最近只淋浴，就决定进去吧。[l][r]
-
+因为最近只淋浴，就进去洗洗吧。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 说不定辉子在那里面。[l][r]
 辉子，你在哪里呢……？[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0xffffff"  ]
 [cm  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「很舒服的热水。」[p][r]
-看了下时间，已经过下午４点了。[l][r]
-碳酸泉的温水很舒服。[l][r]
+「热水很舒服。」[p][r]
+看了下时间，已经过16点了。[l][r]
+碳酸温泉的微温浴真是舒服啊。。[l][r]
 虽然是随处可见的事物，但不管哪里都很棒。[l][r]
 总之，之后再去找猫地藏，先回辉子的家门前吧。[l][r]
-
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -321,25 +299,22 @@ Niya标注记的地方，也有猫地藏。[p][r]
 [playse  volume="50"  time="1000"  buf="0"  storage="Littlekav.m4a"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="Alice01.m4a"  ]
 [tb_start_text mode=3 ]
-啪啦啪啦啪啦啪啦……。[l][r]
-
+呼唰呼唰呼唰呼唰……。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 天空，海洋，街道。[l][r]
 辉子说，这里什么都没有。[l][r]
 即便如此……。[l][r]
-和辉子住的那个家比起来，[l][r]
+和辉子住的那个房间比起来，[l][r]
 和那个，又窄又白，像鱼缸一样的房间比起来，[l][r]
-
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 就连风从后面吹过我都会感到喜悦。[l][r]
 辉子一定也觉得这个城镇是这样的吧……。[l][r]
 虽然她说这里什么都没有……。[l][r]
-但我已经稍微喜欢上这个城镇了。[l][r]
-
+但我已经有点欢上这个城镇了。[l][r]
 [_tb_end_text]
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
