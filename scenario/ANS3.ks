@@ -208,9 +208,9 @@ Niya假装在喝茶，其实似乎是在喝酒。[l][r]
 
 [tb_start_text mode=3 ]
 「我可没这么说……」[p][r]
-「说到底，你是姐姐的谁啊？」[p][r]
+「说到底，你这家伙是姐姐的谁啊？」[p][r]
 「……朋友[l][r]
-不是你的，是你姐姐的，叫Alice」[p][r]
+不是“你这家伙”，是Alice」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahiroodo.png"  ]
