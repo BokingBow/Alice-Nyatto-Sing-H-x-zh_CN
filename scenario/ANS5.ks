@@ -102,7 +102,7 @@
 
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikow02.png"  ]
 [tb_start_text mode=3 ]
-长耳朵的人一把抓住我的手臂。[l][r]
+长耳朵的家伙一把抓住我的手臂。[l][r]
 然后把我拖进跟猫地藏菩萨相反方向的树丛里。[p][r]
 「咦！」[p][r]
 那里，原来是路耶。[l][r]
@@ -116,7 +116,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
 我跌跌撞撞地从陡坡溜下去，便来到神社后方。[l][r]
-啊，原来这样相对的位置关系啊……[p][r]
+啊，原来是这样相对的位置关系啊……[p][r]
 「不对！」[p][r]
 [_tb_end_text]
 
@@ -132,10 +132,10 @@
 [chara_mod  name="sabure"  time="600"  cross="true"  storage="chara/3/Nekomikokanas.png"  ]
 [tb_start_text mode=3 ]
 「树丛……？」[p][r]
-耳朵女回头看自己走来的树丛。[p][r]
+长耳朵的家伙回头看自己走来的树丛。[p][r]
 「昨天野猪先生开了一条路哦？」[p][r]
 开什么路！[l][r]
-这个人说不定不是人类……[l][r]
+这家伙说不定不是人类……[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
