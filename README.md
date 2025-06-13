@@ -7,3 +7,5 @@ ___《Alice Nyatto Sing》___ 汉化补丁。
 
 游戏原版是免费公开的，可以在[这里](https://novelgame.jp/games/show/8706)下载。  
 请支持原作者。
+
+本汉化使用了俐方体11号字体，大家也可以在[这里](https://github.com/ACh-K/Cubic-11)给字体作者一个 Star。
