@@ -17,7 +17,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-高尾达彦似乎不想让我见到她，但Niya也是这样吗？[l][r]
+高尾达彦似乎不想让我见到她，但妮娅也是这样吗？[l][r]
 难道，她有别的住所吗？[l][r]
 即使想破头，不知道的事还是不知道。[l][r]
 待在这里什么事也做不成。[l][r]
@@ -30,7 +30,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="Alice01.m4a"  ]
 [tb_start_text mode=3 ]
-第二天，我重新看了下从Niya那得到的小册子。[l][r]
+第二天，我重新看了下从妮娅那得到的小册子。[l][r]
 商业街。[l][r]
 [_tb_end_text]
 
@@ -223,7 +223,7 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="hizashi.ogg"  ]
 [chara_show  name="niya"  time="1000"  wait="true"  storage="chara/2/Niyanom.png"  width="1024"  height="576"  top="100"  ]
 [tb_start_text mode=3 ]
-「欢迎回来，Alice 」[p][r]
+「欢迎回来，有栖 」[p][r]
 「啊，我回来了」[p][r]
 感觉好害羞。[l][r]
 明明是陌生人，这样也行吗？[p][r]
@@ -251,7 +251,7 @@
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom2.png"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=3 ]
-「Niya，你会去神社吗……？」[p][r]
+「妮娅，你会去神社吗……？」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyahuann.png"  ]

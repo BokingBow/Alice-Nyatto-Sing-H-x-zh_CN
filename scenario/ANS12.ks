@@ -17,11 +17,11 @@
 [tb_start_text mode=3 ]
 「别再弄坏了」[p][r]
 「又、又不是我弄坏的……」[p][r]
-「Alice，开车小心点哦」[p][r]
+「有栖，开车小心点哦」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「嗯，Niya，谢谢。[l][r]
+「嗯，妮娅，谢谢。[l][r]
 ……还有高尾达彦！」[p][r]
 [_tb_end_text]
 
@@ -45,7 +45,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-不过也见到了Niya跟笔友」[p][r]
+不过也见到了妮娅跟笔友」[p][r]
 「帮我跟哥哥和哥哥的女朋友打声招呼」[p][r]
 [_tb_end_text]
 
@@ -88,7 +88,7 @@
 [tb_start_text mode=3 ]
 我实在无法理解高尾达彦的想法。他是外星人吗？[l][r]
 不过，我至少明白他不想再感到寂寞的心情。[p][r]
-「Niya……我会再来玩的」[p][r]
+「妮娅……我会再来玩的」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaw.png"  ]
