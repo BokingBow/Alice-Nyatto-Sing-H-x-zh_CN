@@ -221,7 +221,7 @@
 [tb_start_text mode=3 ]
 「诶？」[p][r]
 我闭着眼睛时，旁边传来了声音。[p][r]
-「阿达，有客人？」[p][r]
+「阿隆，有客人？」[p][r]
 是女性的声音……也就是说，是辉子吗？[l][r]
 我猛然睁开眼，转过头去。[l][r]
 [_tb_end_text]
@@ -299,12 +299,12 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
 [tb_start_text mode=3 ]
-「对了，你找阿达有什么事？」[p][r]
-「阿达？」[p][r]
+「对了，你找阿隆有什么事？」[p][r]
+「阿隆？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「嗯，高尾达彦」[p][r]
+「嗯，高尾隆弘」[p][r]
 妮娅嘴里说着玩笑一般的名字。[l][r]
 完全就是个冷笑话啊。[l][r]
 [font color="0xaaaaaa"]译注：原文为「高尾（たかお）タカヒロ」，姓与名的前一个字同音。[p][r]
@@ -398,7 +398,7 @@
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
 [tb_start_text mode=3 ]
 「那家伙，要工作到17点」[p][r]
-「那家伙是……达，达彦先生、吗？」[p][r]
+「那家伙是……隆，隆弘先生、吗？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
@@ -406,7 +406,7 @@
 「那个，话说，辉子她……」[p][r]
 「啊——辉姐姐她……嗯，她现在不在」[p][r]
 「她什么时候回来？」[p][r]
-「这个，得去问阿达才行」[p][r]
+「这个，得去问阿隆才行」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]

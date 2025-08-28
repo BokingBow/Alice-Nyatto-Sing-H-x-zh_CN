@@ -86,7 +86,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-我试着问下班的高尾达彦。[p][r]
+我试着问下班的高尾隆弘。[p][r]
 「嗯，你不记得什么吗？」[p][r]
 「怎么突然问这个？」[p][r]
 「有栖收到了邮件哦」[p][r]
@@ -264,7 +264,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-「说起来，辉子、妮娅和达彦曾经一起养过猫吧？」[p][r]
+「说起来，辉子、妮娅和隆弘曾经一起养过猫吧？」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom.png"  ]
@@ -330,26 +330,26 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyahuann.png"  ]
 [tb_start_text mode=3 ]
-「达彦没跟我提过类似的事情呢……」[p][r]
+「隆弘没跟我提过类似的事情呢……」[p][r]
 「那不就是有在隐瞒吗」[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyaw.png"  ]
 [tb_start_text mode=3 ]
 
-「啊哈哈，有栖一点也不信任达彦呢」[p][r]
+「啊哈哈，有栖一点也不信任隆弘呢」[p][r]
 「毕竟，他就是很让人火大啊……」[p][r]
 「是呢～」[p][r]
 在谈论着这些话题的时候，也抵达了妮娅的家。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-也就是说，这也是辉子和高尾达彦的家门前。[p][r]
+也就是说，这也是辉子和高尾隆弘的家门前。[p][r]
 [_tb_end_text]
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyanom2.png"  ]
 [tb_start_text mode=3 ]
-「达彦，现在在家吗？」[p][r]
+「隆弘，现在在家吗？」[p][r]
 我这么一说，妮娅就咚咚咚地敲起了高尾家的门。[p][r]
 「！？」[p][r]
 「这个房子的对讲机坏了啊」[p][r]

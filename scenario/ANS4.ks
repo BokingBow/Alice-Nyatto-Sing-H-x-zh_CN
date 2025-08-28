@@ -17,7 +17,7 @@
 
 [tb_start_text mode=3 ]
 说话方式和动作，也让我明白了妮娅和辉子在一块生活的事实。[l][r]
-高尾达彦。[l][r]
+高尾隆弘。[l][r]
 那家伙也有和辉子相似的地方吗。[l][r]
 虽然他们是血脉相连的姐弟。[l][r]
 但反过来说，也可能存在毫无相似之处的地方。[l][r]
@@ -167,8 +167,8 @@
 [chara_mod  name="takahiro"  time="600"  cross="true"  storage="chara/4/Takahirohiki.png"  ]
 [tb_start_text mode=3 ]
 「啊？」[p][r]
-「高尾、达彦……」[p][r]
-辉子的弟弟高尾达彦走了出来。[p][r]
+「高尾、隆弘……」[p][r]
+辉子的弟弟高尾隆弘走了出来。[p][r]
 「为什么你这家伙会在这儿？」[p][r]
 「不是“你这家伙”，是有栖。[l][r]
 [_tb_end_text]
@@ -176,7 +176,7 @@
 [tb_start_text mode=3 ]
 我来修车，而已」[p][r]
 「修车……」[p][r]
-高尾达彦看向我推着的摩托。[p][r]
+高尾隆弘看向我推着的摩托。[p][r]
 「不行吗……？」[p][r]
 [_tb_end_text]
 
@@ -199,7 +199,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-高尾达彦冷淡地这么说道。[l][r]
+高尾隆弘冷淡地这么说道。[l][r]
 ……这跟乡下或是城里，有什么关系吗。[l][r]
 [_tb_end_text]
 
@@ -251,7 +251,7 @@
 
 [playbgm  volume="70"  time="1000"  loop="true"  storage="Alice01.m4a"  ]
 [tb_start_text mode=3 ]
-高尾达彦很让人火大，风、海和天空也很烦人。[l][r]
+高尾隆弘很让人火大，风、海和天空也很烦人。[l][r]
 哪儿都不想去。[l][r]
 我只是想见辉子一面啊。[p][r]
 「哈……哈……」[p][r]
@@ -312,7 +312,7 @@
 
 [chara_mod  name="niya"  time="600"  cross="true"  storage="chara/2/Niyahatarakiodo.png"  ]
 [tb_start_text mode=3 ]
-「啊，是在阿达工作的地方修理吗？」[p][r]
+「啊，是在阿隆工作的地方修理吗？」[p][r]
 真敏锐啊。[p][r]
 「他说，要到下周才能修好……」[p][r]
 「哎呀呀，那还真是有够倒霉的」[p][r]
@@ -478,7 +478,7 @@
 「……在的」[p][r]
 妮娅这么说道。[p][r]
 「虽然高这么说，不过辉姐姐在城市里哦」[p][r]
-「高尾达彦隐瞒了什么？」[p][r]
+「高尾隆弘隐瞒了什么？」[p][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
